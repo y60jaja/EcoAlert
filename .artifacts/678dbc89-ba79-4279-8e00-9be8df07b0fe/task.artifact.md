@@ -1,0 +1,6 @@
+- [x] Eliminar botón de análisis de TopDashboardBar
+- [x] Agregar pestaña y formulario de registro en ProfileAccountView
+- [x] Rediseñar y mejorar HeroAQIArcMeter con mensaje integrado y mejores visuales
+- [x] Renombrar pestañas de segmento a "Reporte" y "Detalle contaminantes"
+- [x] Rediseñar EnvironmentalMetricsGrid y agregar tarjeta de Presión Atmosférica
+- [x] Compilar y verificar el proyecto

@@ -19,6 +19,7 @@ data class HourlyData(
     @SerializedName("carbon_dioxide") val carbonDioxide: List<Float>?,
     @SerializedName("uv_index") val uvIndex: List<Float>?,
     @SerializedName("relative_humidity_2m") val humidity: List<Float>?,
-    @SerializedName("temperature_2m") val temperature: List<Float>?
+    @SerializedName("temperature_2m") val temperature: List<Float>?,
+    @SerializedName("surface_pressure") val surfacePressure: List<Float>? = null
 )
 
